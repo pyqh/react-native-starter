@@ -1,4 +1,4 @@
-import Component from './Components/7-react-navigation';
+import Component from './Components/13-audio';
 
 export default function App() {
   return <Component />;
